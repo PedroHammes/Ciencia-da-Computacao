@@ -1,0 +1,44 @@
+Entrega da Avaliação - Fórum de Discussão [AVA 1]
+Aplicações de sistemas ciberfísicos no contexto da Indústria 4.0 
+ 
+
+Os sistemas ciberfísicos (ou CPS, na sigla em inglês para Cyber-Physical Systems) são a base da Indústria 4.0. Por meio deles as máquinas e equipamentos se conectam a sistemas por meio de sensores, atuadores e softwares, de modo que informações são geradas, registradas e processadas com agilidade e praticidade surpreendentes e relativamente recentes no campo da indústria.  
+
+Por este motivo, já é possível ver propostas e até mesmo exemplos mais cotidianos de uso desses sistemas aliados a tecnologias como Inteligência Artificial e Internet das Coisas nas mais diversas aplicações e áreas.  
+
+Um exemplo interessante é o uso de robôs autônomos para diagnóstico por imagem (vídeoinspeção) em tubulações de águas pluviais e de esgoto. Esses robôs percorrem os trechos de interesse mapeando os pontos onde existem obstruções, patologias, corrosão, desgastes, além de ligações e galerias clandestinas. Porém, como em toda tecnologia, é preciso considerar as limitações técnicas e operacionais desses robôs, tais como limites de diâmetro e de pressão na tubulação.  
+
+Na cidade do Rio de Janeiro, no Projeto Lagoa Limpa por exemplo, a aplicação dessa tecnologia permitiu identificar ligações irregulares na rede que lançavam esgoto nas galerias de águas pluviais, contaminando a Lagoa Rodrigo de Freitas.  
+
+ 
+
+Parte 1: pesquisa e postagem dos resultados no fórum  
+
+Faça uma pesquisa sobre aplicações inovadoras de sistemas ciberfísicos na área do seu curso no contexto da Indústria 4.0.  
+
+Escolha uma das aplicações encontradas em sua pesquisa e poste no fórum as respostas aos questionamentos a seguir. Lembre-se de responder a todas as perguntas.  
+
+Qual é a função deste sistema ciberfísico na indústria ou processo no qual se propõe a sua aplicação?  
+Quais são as vantagens de uso desse sistema em contrapartida aos processos e sistemas utilizados anteriormente para executar as atividades em questão? 
+Quais são as limitações de uso dessa tecnologia e que outras tecnologias são associadas a ela para potencializar e melhorar os resultados obtidos? 
+Para operar equipamentos e máquinas ou gerir processos que usem esse sistema é preciso algum tipo de capacitação específica? Se sim, qual? 
+Onde é possível encontrar mais informações sobre o sistema apresentado? Poste links de artigos e reportagens que falem a respeito do sistema ciberfísico analisado.  
+Atenção: sua pesquisa deverá estar pautada em fontes confiáveis, dando preferência a fontes acadêmicas (Portal Capes, Scielo e Google Acadêmico) ou fontes técnicas (manuais, relatórios e guias técnicos).  
+
+  
+
+Parte 2: Comentários nas postagens do fórum  
+
+Após postar a sua resposta, comente na publicação de outros colegas no fórum analisando os sistemas apresentados por eles, de modo a contribuir para um debate diverso, enriquecedor e respeitoso.
+
+ 
+
+Referências:
+
+Leia o Tópico 1 da Unidade 2 desta disciplina para relembrar o que são e como funcionam os sistemas ciberfísicos na Indústria 4.0.  
+
+Leia o Capítulo 3 do livro Indústria 4.0: conceitos e fundamentos de José Benedito Sacomano e outros autores para aprofundar seus conhecimentos sobre sistemas ciberfísicos. O livro está disponível na Biblioteca Virtual Pearson, que pode ser acessada pelo Portal do Aluno.  
+
+Referência do livro: SACOMANO, J. B. et al. Indústria 4.0: conceitos e fundamentos. São Paulo: Blucher, 2018.  
+
+Leia o relatório Desafios para a Indústria 4.0 no BrasilLinks para um site externo.,Links para um site externo. elaborado pela CNI - Confederação Nacional da Indústria para compreender ainda mais sobre sistemas ciberfísicos e conhecer as expectativas para as próximas décadas quanto à Indústria 4.0 em nosso país.
