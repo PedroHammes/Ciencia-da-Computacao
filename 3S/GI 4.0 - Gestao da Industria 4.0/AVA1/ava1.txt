@@ -1,44 +1,23 @@
-Entrega da Avaliação - Fórum de Discussão [AVA 1]
-Aplicações de sistemas ciberfísicos no contexto da Indústria 4.0 
- 
+Uma Smart Classroom conta com dispositivos capazes de receber dados do mundo físico, processá-los e retornar estes dados como insights a serem incorporados na dinâmica da sala de aula.
 
-Os sistemas ciberfísicos (ou CPS, na sigla em inglês para Cyber-Physical Systems) são a base da Indústria 4.0. Por meio deles as máquinas e equipamentos se conectam a sistemas por meio de sensores, atuadores e softwares, de modo que informações são geradas, registradas e processadas com agilidade e praticidade surpreendentes e relativamente recentes no campo da indústria.  
+Na prática estes dados possibilitam a personalização do ensino focada nas valências e deficiências de cada aluno. De forma que o professor pode sim seguir um plano de curso geral, e usar apoio tecnológico para exercitar os pontos fracos de cada aluno.
 
-Por este motivo, já é possível ver propostas e até mesmo exemplos mais cotidianos de uso desses sistemas aliados a tecnologias como Inteligência Artificial e Internet das Coisas nas mais diversas aplicações e áreas.  
 
-Um exemplo interessante é o uso de robôs autônomos para diagnóstico por imagem (vídeoinspeção) em tubulações de águas pluviais e de esgoto. Esses robôs percorrem os trechos de interesse mapeando os pontos onde existem obstruções, patologias, corrosão, desgastes, além de ligações e galerias clandestinas. Porém, como em toda tecnologia, é preciso considerar as limitações técnicas e operacionais desses robôs, tais como limites de diâmetro e de pressão na tubulação.  
+"Inerente a uma instituição de ensino, o protótipo de automação da assiduidade dos discentes fortalece
+o uso de uma plataforma de prototipagem eletrônica de baixo custo, e uma possível resolução do problema
+identificado, atendendo a uma questão muito emblemática ao Setor Pedagógico de uma Instituição, que
+seria a gestão da assiduidade dos alunos (COSTA et al. 2015), no sentido de atacar um ponto de evasão
+escolar" - proposta-de-integracao-da-iot-a-sala-de-aula-com-248k8xz0l1
 
-Na cidade do Rio de Janeiro, no Projeto Lagoa Limpa por exemplo, a aplicação dessa tecnologia permitiu identificar ligações irregulares na rede que lançavam esgoto nas galerias de águas pluviais, contaminando a Lagoa Rodrigo de Freitas.  
+"A proposta do protótipo para controle de assiduidade dos discentes consiste na utilização de
+equipamentos de baixo custo, para efetuar o registro da presença dos alunos, sendo utilizado um
+microcontrolador Arduino Uno, acoplado com Shields, como a placa Wi-Fi ESP8266, um sensor de leitura
+biométrica de impressão digital (fingerprint), e um display LCD 16x2 backlight, o qual expõe na tela se a
+presença do aluno foi validada. Este protótipo se comunica diretamente com um sistema web dentro de
+um servidor na nuvem para envio e retorno das requisições realizadas. O sistema Web foi construído utilizando os recursos do HTML 5, CSS 3, Bootstrap e a linguagem de
+programação PHP 7.1, tendo como base um conjunto de páginas que permite o cadastramento e listagem
+dos docentes, alunos, disciplinas e a presença dos discentes nestas. Com o intuito de fornecer um sistema
+mais responsivo ao usuário, buscando a redução na latência de comunicação com o servidor, com um
+processamento mais ágil está sendo implementado uma camada intermediária com o uso dos conceitos de
+Fog, por meio de uma placa Raspberry Pi, que será melhor descrita no decorrer dessa seção. "- proposta-de-integracao-da-iot-a-sala-de-aula-com-248k8xz0l1
 
- 
-
-Parte 1: pesquisa e postagem dos resultados no fórum  
-
-Faça uma pesquisa sobre aplicações inovadoras de sistemas ciberfísicos na área do seu curso no contexto da Indústria 4.0.  
-
-Escolha uma das aplicações encontradas em sua pesquisa e poste no fórum as respostas aos questionamentos a seguir. Lembre-se de responder a todas as perguntas.  
-
-Qual é a função deste sistema ciberfísico na indústria ou processo no qual se propõe a sua aplicação?  
-Quais são as vantagens de uso desse sistema em contrapartida aos processos e sistemas utilizados anteriormente para executar as atividades em questão? 
-Quais são as limitações de uso dessa tecnologia e que outras tecnologias são associadas a ela para potencializar e melhorar os resultados obtidos? 
-Para operar equipamentos e máquinas ou gerir processos que usem esse sistema é preciso algum tipo de capacitação específica? Se sim, qual? 
-Onde é possível encontrar mais informações sobre o sistema apresentado? Poste links de artigos e reportagens que falem a respeito do sistema ciberfísico analisado.  
-Atenção: sua pesquisa deverá estar pautada em fontes confiáveis, dando preferência a fontes acadêmicas (Portal Capes, Scielo e Google Acadêmico) ou fontes técnicas (manuais, relatórios e guias técnicos).  
-
-  
-
-Parte 2: Comentários nas postagens do fórum  
-
-Após postar a sua resposta, comente na publicação de outros colegas no fórum analisando os sistemas apresentados por eles, de modo a contribuir para um debate diverso, enriquecedor e respeitoso.
-
- 
-
-Referências:
-
-Leia o Tópico 1 da Unidade 2 desta disciplina para relembrar o que são e como funcionam os sistemas ciberfísicos na Indústria 4.0.  
-
-Leia o Capítulo 3 do livro Indústria 4.0: conceitos e fundamentos de José Benedito Sacomano e outros autores para aprofundar seus conhecimentos sobre sistemas ciberfísicos. O livro está disponível na Biblioteca Virtual Pearson, que pode ser acessada pelo Portal do Aluno.  
-
-Referência do livro: SACOMANO, J. B. et al. Indústria 4.0: conceitos e fundamentos. São Paulo: Blucher, 2018.  
-
-Leia o relatório Desafios para a Indústria 4.0 no BrasilLinks para um site externo.,Links para um site externo. elaborado pela CNI - Confederação Nacional da Indústria para compreender ainda mais sobre sistemas ciberfísicos e conhecer as expectativas para as próximas décadas quanto à Indústria 4.0 em nosso país.
