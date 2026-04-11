@@ -89,7 +89,24 @@ int main() {
                     printf("Matrícula: %d\n", current->matricula); /* exibe a matrícula do aluno atual*/
                     current = current->next; /* move o ponteiro para a próxima célula */
                 }
+            break;
             }
+        case 6:
+            if (start == NULL) { /* se a lista estiver vazia */
+                printf("A lista está vazia, nada para excluir\n");
+            }
+            else { /* se a lista não estiver vazia */
+                Celula *student_leaving = start; /* O primeiro aluno da lista é o que está saindo */
+                start = start->next; /* então o aluno seguinte se torna o primeiro */
+                if (start == NULL) { /* se a lista ficou vazia significa que o primeiro aluno era o único */
+                    end = NULL; /* o último aluno também é o único, então a lista está vazia */
+                } else { /* se a lista não ficou vazia */
+                    start->prev = NULL; /* o elemento anterior ao novo primeiro aluno é nulo (afinal ele foi embora)*/
+                }
+                
+                free(student_leaving); /* libera a memória do aluno que está saindo */
+            }
+        break;
         case 10:
             /* code */
         default:
