@@ -1,7 +1,6 @@
 // 1. Problemas, Algoritmos e Programas
-// Exercício: Escreva um programa em C que leia a base e a altura de um triângulo e calcule sua área. 
-// Explique como o seu código divide o problema nas três etapas fundamentais: entrada, processamento e saída.
-// C - Guia do Programador: Dia 2 (Componentes de um programa) e Dia 4 (Expressões).
+// Exercício: Escreva um programa em C que leia a base e a altura de um triângulo e calcule sua área. Explique como o seu código divide o problema nas três etapas fundamentais: entrada, processamento e saída.
+// C - Guia do Programador (Aitkens e Jones): Dia 2 (Componentes de um programa) e Dia 4 (Expressões).
 
 // EXPLICAÇÃO
 // <stdio.h> biblioteca usada para lidar com Input e Output;
